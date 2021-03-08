@@ -1,0 +1,10 @@
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\obj\Debug\Peso Ideal.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\obj\Debug\Peso_Ideal.Form1.resources
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\obj\Debug\Peso_Ideal.Properties.Resources.resources
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\obj\Debug\Peso Ideal.csproj.GenerateResource.cache
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\obj\Debug\Peso Ideal.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\bin\Debug\Peso Ideal.exe.config
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\bin\Debug\Peso Ideal.exe
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\bin\Debug\Peso Ideal.pdb
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\obj\Debug\Peso Ideal.exe
+C:\Users\mathe\Desktop\Atividade2\Peso Ideal\Peso Ideal\obj\Debug\Peso Ideal.pdb
